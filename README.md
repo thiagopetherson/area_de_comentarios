@@ -10,7 +10,7 @@ Feito com PHP Purinho e PDO na ousadia. Rs. Brincadeira, esse PDO está bem simp
 - O código está bem comentadinho e creio que você não tenha dificuldades em implementá-lo. 
 - Mas se mesmo assim tiver, segue abaixo os meus contatos. 
 
-Website: https://www.thiagopetherson.tech/views/contato.php
-Email: thiagopetherson@outlook.com
+- Website: https://www.thiagopetherson.tech/views/contato.php
+- Email: thiagopetherson@outlook.com
 
 - Bom uso. Que a força esteja com vocês.
