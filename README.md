@@ -13,4 +13,4 @@ Feito com PHP Purinho e PDO na ousadia. Rs. Brincadeira, esse PDO está bem simp
 - Website: https://www.thiagopetherson.tech/views/contato.php
 - Email: thiagopetherson@outlook.com
 
-- Bom uso. Que a força esteja com vocês.
+- Bom uso. Que a força esteja com vocês!
