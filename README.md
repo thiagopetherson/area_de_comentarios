@@ -1,5 +1,5 @@
 # area_de_comentarios
-Segue aqui um código simples, com PHP Puro, para você inserir uma área de comentário no seu site ou sistema.
+Segue aqui um código simples, com PHP Puro, para você inserir uma área de comentário no seu site ou sistema. Feito com base no curso da B7Web.
 
 Estou postando um código simples e muito, muito fácil, para você criar uma área de comentários no seu site ou sistema.
 Claro que você pode melhorar muito isso, tanto na parte de visualização quanto na parte de validação dos dados. 
